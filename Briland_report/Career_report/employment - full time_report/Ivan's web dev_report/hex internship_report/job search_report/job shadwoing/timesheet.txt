@@ -1,0 +1,3 @@
+when		what	how
+2018-03-10	32m	mktg
+2018-03-14	25m	mktg

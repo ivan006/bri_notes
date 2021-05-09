@@ -1,0 +1,29 @@
+Main duties: (list not exhaustive)				
+-Write ‘clean’, well designed code				programming style
+-Troubleshoot, test and maintain the core product software 	pipeline (gitlab/github)
+to ensure strong optimization and functionality			
+-Contribute in all phases of the development life-cycle		dev life cyce (gitlab/github)
+-Follow industry best practices					best practices
+-Provide and maintain front-end interfaces			front-end itnerface
+-Reports							reports
+
+Candidate Requirements						
+								
+Minimum educational qualification:				
+								
+-Applicable qualification (Software Engineering or 		edu certificate
+Computer Science degree preferred)				
+								
+Experience:							
+								
+-Experience integrating REST and SOAP APIs			rest and soap apis
+-Experience with a PHP Framework – advantageous			laravel
+-Strong experience with Security Services and Technologies, 	security services
+including SSL Certificates, TLS Services, etc.			
+								
+Competencies (Knowledge/skills):				
+								
+-Good understanding and experience of modern 			jquery,json,wordpress
+Web technologies, including JQuery, JSON, WordPress		
+-A strong understanding of the Southern African 		Southern African collections environment
+collections environment – advantageous				

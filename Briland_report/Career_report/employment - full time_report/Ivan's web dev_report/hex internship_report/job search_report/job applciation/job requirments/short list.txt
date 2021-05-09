@@ -1,0 +1,56 @@
+Short version:					
+						
+Main duties: (list not exhaustive)
+		
+-Programming style
+--read up
+--practice
+---php programming style recommedations (search for php-fig.org/psr)
+---php linter code editor plugin
+	
+-Software construction
+--read up
+--practice
+---firebug
+---chrome dev tools (just press f12)
+		
+-Software development process			leave it	
+		
+-Best coding practices	
+--read up
+---dunning kruger effect (google this)	
+---pdo (ask /google if its still usefull on q/a site)	
+--practice
+
+
+-front-end interface (whatever that means)				
+-reports (whatever that means)					
+									
+								
+Candidate Requirements						
+								
+Minimum educational qualification:				
+-uni qualifications 				leave it			
+								
+Experience:							
+-Web service					read, not practiced
+--read up
+---the seven rest verbs
+-Web framework					
+--read up
+---composer (software) 
+---see edwin diaz course composer
+--practice
+---composer (download it)
+
+-Transport Layer Security
+--read up
+---
+--practice			
+						
+Competencies (Knowledge/skills):		
+-jquery,json,wordpress				
+-Southern African collections environment (whatever that means)
+
+
+

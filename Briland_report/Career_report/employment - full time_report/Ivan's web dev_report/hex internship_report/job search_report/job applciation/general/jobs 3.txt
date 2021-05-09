@@ -1,0 +1,38 @@
+SUMMARY
+-Aim to get a real job rather than job shadow
+-Briefly brush up on a real jobs required skills set
+-Apply for it
+
+AIM TO GET A REAL JOB RATHER THAN JOB SHADOW
+
+-i already have enough skill without knowing laravel to get a job/internship
+-if i do a job shadow position my skill will likely get exploited
+
+BRIEFLY BRUSH UP ON A REAL JOBS REQUIRED SKILL SET
+
+job requirements
+-use careers24 to search for "junior php [developer]
+-read up on those job requirment skills
+-and practice them for an hour
+
+devins recomended skills
+-git		
+-php unit	
+-composer	
+-frameworks - laravel,etc		
+-linexs		
+
+APPLY FOR IT
+
+opening letter
+-do brief research into "why u want to work there" e.g. company looks supportive etc.
+
+
+
+
+
+
+
+
+
+

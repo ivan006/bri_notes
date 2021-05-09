@@ -1,0 +1,34 @@
+SUMMARY
+-Briefly brush up on skills set
+-Apply for a real job
+
+BRIEFLY BRUSH UP ON SKILL SET
+-git		
+-php unit	
+-composer	
+-frameworks	
+--laravel 	
+--etc		
+-linexs		
+
+APPLY FOR A REAL JOB
+-use careers24 to search for "junior php [developer]
+-research job requirements
+--just do breif research into these skill sets
+--when u search for a job and see the required skills
+--practicing those skills for an hour
+--and read up on them
+-research the company
+--do brief research into the company
+--know what you talking about in ur opening letter on "why u want to work there"
+--know if its a supportive company that u would want to work at
+
+
+
+
+
+
+
+
+
+

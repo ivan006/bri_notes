@@ -1,0 +1,51 @@
+
+Data-mapping in CodeIgniter for beginners tutorial:
+
+What are the key topics?
+	Models
+	CodeIgniter SQL
+	ORM
+		What is an ORM?
+		How to make an ORM?
+		
+
+What are models?
+
+	Models are the folders where "data mapping" functions are found which are for 
+	handling your database.
+
+What is CodeIgniter SQL?
+
+	SQL is a special language used to communicate with the database.
+	Although SQL is used in CodeIgniter you wont directly code with it instead you 
+	will use CodeIgniters shorthand (also known as query builder functions).
+
+ORM's
+
+	What is an ORM?
+
+	ORM (object-relational mapping) is the type of data mapping that allows us to
+	handle bits of relational data as unified hierarchical data objects.
+
+	How to make an ORM?
+
+	There are couple of different methods ORMs use 
+	1. the adjecency list method (where you just add a field to the objects saying 
+	who their parent is.)
+	2. the nested list method (where you use some numbers according to some numbering 
+	system and advanced calculus to determine the structure) and 
+	3. the closure tables method (where you use an associative table to describe the 
+	structure, like they use in WordPress). 
+
+
+What is a repository?
+
+	Repositories are connected to the DBAL (database absraction layer) in that they 
+	both contribute to making CodeIgniter's database communication shorthand possible.
+
+What is an entity?
+
+	Entities are connected to the ORM in that they both help in representating youe 
+	database.
+
+

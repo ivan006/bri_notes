@@ -1,0 +1,6 @@
+super theme editor
+theme framework
+
+
+basically gantry is a theme that allows u to to ad SECTIONS  
+to ur website nothing more.

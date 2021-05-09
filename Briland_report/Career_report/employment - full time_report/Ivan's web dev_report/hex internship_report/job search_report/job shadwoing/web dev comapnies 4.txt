@@ -1,0 +1,53 @@
+COMPANY NAMES WITH LIST NUMBERS AND ADDRESSES IN ROUTE ORDER
+
+1	Mediumrare Digital, cape town
+2	Kri8it Digital, cape town
+3	Openorigin, cape town
+4	Itopia Interactive, cape town
+5	Lima Bean, cape town
+6	Media Machine, cape town
+7	SA Interactive, cape town
+8	Urbian, cape town
+9	Redshift Digital, cape town
+10	Whitespace , cape town
+
+11	Designspace, cape town
+12	Digital Diamonds, cape town
+13	New Media Digital, cape town
+14	PixelPunks Online Media, cape town
+15	The Agency, cape town
+16	GSDH Advertising Agency, cape town
+17	Webfactory, cape town
+18	Private Label Web Solutions, cape town
+19	The Forge Web Creations, cape town
+20	Articulate Design, cape town
+
+21	ABCreative, cape town
+
+COMPANY NAMES WITH CITY NAME IN ROUTE ORDER
+
+Mediumrare Digital, cape town
+Kri8it Digital, cape town
+Openorigin, cape town
+Itopia Interactive, cape town
+Lima Bean, cape town
+Media Machine, cape town
+SA Interactive, cape town
+Urbian, cape town
+Redshift Digital, cape town
+Whitespace , cape town
+
+Designspace, cape town
+Digital Diamonds, cape town
+New Media Digital, cape town
+PixelPunks Online Media, cape town
+The Agency, cape town
+GSDH Advertising Agency, cape town
+Webfactory, cape town
+Private Label Web Solutions, cape town
+The Forge Web Creations, cape town
+Articulate Design, cape town
+
+ABCreative, cape town
+
+

@@ -1,0 +1,37 @@
+When:		How:	What:
+
+2017-04-26:	2h 21m	avalon.co.za
+2017-04-28:	1h 33m	avalon.co.za
+2017-05-21:	39m	rssa.co.za
+2017-05-22:	1h 30m	rssa.co.za
+2017-05-23:	1h 52m	rssa.co.za
+2017-05-24:	3h 5m	rssa.co.za
+2017-05-25:	35m	rssa.co.za
+2017-05-31:	3h 32m	rssa.co.za
+2017-06-01:	1h 2m	rssa.co.za
+2017-06-02:	1h 43m	rssa.co.za
+2017-06-04:	1h 10m	rssa.co.za
+2017-06-05:	3h 15m	avalon.co.za
+2017-06-06:	2h 18m	avalon.co.za
+2017-06-07:	41m	avalon.co.za
+2017-06-08:	1h 26m	avalon.co.za
+2017-06-12:	54m	rssa.co.za
+2017-06-12:	2h 47m	rssa.co.za
+2017-06-20:	2h 46m	rssa.co.za
+2017-06-21:	1h 45m	rssa.co.za
+2017-06-23:	39m	rssa.co.za
+2017-06-29:	38m	rssa.co.za
+2017-06-29?:	1h 7m	rssa.co.za
+2017-06-29?:	24m	rssa.co.za
+2017-07-04:	2h 50m	rssa.co.za
+2017-07-05:	1h 14m	rssa.co.za
+2017-07-06:	1h 2m	rssa.co.za
+2017-07-10:	18m	rssa.co.za
+2017-07-11:	3h 33m	rssa.co.za
+2017-07-12:	53m	rssa.co.za
+2017-07-12?:	29m	rssa.co.za
+2017-07-17:	1h	rssa.co.za
+
+
+
+

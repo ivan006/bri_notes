@@ -1,0 +1,9 @@
+Development environment
+--read up
+--practice
+---code editor (download it)
+---auto competers code editor plugin 
+---github/gitlab
+---gitkraken (download it)
+---browser (download it)
+---linex (install it)	
