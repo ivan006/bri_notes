@@ -1,0 +1,8 @@
+Date (y/m/d):	Counterparty:		Debit:	Credit:	Balance:	Note:
+							
+2017-04-21:	Driving Lessons		450	
+2017/05/0?:	Samson extra work	1474		
+2017-06-23	boogie mount extra work 1807.16		
+						
+
+

@@ -1,0 +1,35 @@
+Date (y/m/d):	Product:	Qty:	Price(R):	Paid:
+		
+2016-12-28:	Marketing Leads	13	40
+2016-12-30:	Marketing Leads	10	30
+2017-01-11:	Marketing Leads	20 	60
+2017-01-16:	Marketing Leads	20	60
+		
+Total--:	Marketing Leads	63	190	Yes
+		
+2017-01-18:	Marketing Leads	40	120
+2017-01-19:	Marketing Leads	20	60
+2017-01-20:	Marketing Leads	20	60
+2017-01-23:	Marketing Leads	20	60
+2017-01-25:	Marketing Leads	40	120
+		
+Total--:	Marketing Leads	140	420	Yes
+		
+2017-01-30:	Marketing Leads	30	60
+2017-02-20:	Marketing Leads	8	16
+2017-02-23:	Marketing Leads	12	24
+2017-02-23:	Marketing Leads	36	72
+2017-02-28:	Marketing Leads	20	40
+2017-03-01:	Marketing Leads	8	16
+2017-03-02:	Marketing Leads	16	32
+2017-03-02:	Marketing Leads	58	116
+2017-03-07:	Marketing Leads	60	120
+2017-03-08:	Marketing Leads	60	120
+		
+Total--:	Marketing Leads	308	616	Yes	
+		
+2017-03-08:	Marketing Leads	60	120
+2017-03-21:	Marketing Leads	66	132
+2017-03-21:	Marketing Leads	31	62
+		
+Total--:	Marketing Leads	157	314	Yes	

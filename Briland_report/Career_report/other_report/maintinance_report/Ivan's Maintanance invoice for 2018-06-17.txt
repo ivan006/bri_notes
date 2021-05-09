@@ -1,0 +1,29 @@
+Maintanance Invoice				
+				
+-Income Suplimentation Budget				
+				
+--CPV WAITEING:				
+				
+---when		what		how
+				
+---06 Apr	247		wages	
+---13 Apr	368.73		wages	
+---04 May	627		wages	
+---11 May	352		wages	
+---18 May	688		wages	
+---01 Jun	171		wages	
+---06 APr-1 Jun	545		tips	
+				
+---subtotal:	2998.73			
+				
+				
+--HEX digital marketing:				
+				
+---when		what		how
+				
+---29 May	2500			
+				
+---subtotal:	2500			
+				
+				
+-total:	R5498.73			

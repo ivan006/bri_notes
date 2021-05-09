@@ -1,0 +1,3 @@
+features not covered very well
+
+-nullable as a orm querie option 

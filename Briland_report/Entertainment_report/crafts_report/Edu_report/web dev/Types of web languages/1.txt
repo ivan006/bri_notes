@@ -1,0 +1,3 @@
+
+Front end languages 	- style
+Back end languages	- storage and retrival

@@ -1,0 +1,5 @@
+[04-Jun-2017 07:04:03 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/aeuchoi/public_html/OOPIP/site/index.php on line 6
+[04-Jun-2017 07:05:11 America/Chicago] PHP Warning:  include(classes/page.php): failed to open stream: No such file or directory in /home/aeuchoi/public_html/OOPIP/site/index.php on line 4
+[04-Jun-2017 07:05:11 America/Chicago] PHP Warning:  include(classes/page.php): failed to open stream: No such file or directory in /home/aeuchoi/public_html/OOPIP/site/index.php on line 4
+[04-Jun-2017 07:05:11 America/Chicago] PHP Warning:  include(): Failed opening 'classes/page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aeuchoi/public_html/OOPIP/site/index.php on line 4
+[04-Jun-2017 07:05:11 America/Chicago] PHP Fatal error:  Class 'page' not found in /home/aeuchoi/public_html/OOPIP/site/index.php on line 6

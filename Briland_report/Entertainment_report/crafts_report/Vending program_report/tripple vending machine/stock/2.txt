@@ -1,0 +1,5 @@
+product			quantity		cost
+	
+small toy capsules  	200 units		R180
+gum balls 		850 units		R527
+sherbet sweets bulk 	1kg (105 vend)		R114 

@@ -1,0 +1,11 @@
+    "host": "kombucharepublic.co.za",
+    "user": "wb_kombuchare_37e41c67c2@kombucharepublic.co.za",
+    "pass": "C^iL{E(XK06}",
+    "remote": "",
+    "local": "",
+
+
+
+
+$ ssh root@46.101.13.206
+ivan123

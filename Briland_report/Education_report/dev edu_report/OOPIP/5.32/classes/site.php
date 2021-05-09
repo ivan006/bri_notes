@@ -1,0 +1,6 @@
+<?php
+/*Inputs*/ 
+class site {
+
+}
+?>

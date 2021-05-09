@@ -1,0 +1,6 @@
+products		cost(R)/vend
+
+small toy capsules 	0.90
+
+gum balls 		0.62
+sherbet bulk sweets  	1.09-2.70

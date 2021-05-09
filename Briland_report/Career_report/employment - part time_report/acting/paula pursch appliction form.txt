@@ -1,0 +1,20 @@
+Link:		http://purschartistes.co.za/join-us/
+
+Name:		Ivan
+Surname:	Copeland
+Address:	24 De Stadler Ave, Capri 7975, Cape Town	
+Email Address:	ivan.copeland2018@gmail.com
+Contact Number:	0799229061
+Nationality:	British
+Headshot 1:	
+Headshot 2:	
+Full Length:	
+CV:		
+Age:		23
+Height (in cm):	
+Top Size:	
+Pants Size:	
+Eye Colour:	Blue
+Hair Colour:	Brown
+Shoe Size:	9
+Gender:		Male

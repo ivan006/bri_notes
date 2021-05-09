@@ -1,0 +1,15 @@
+ingredients
+	-chicken pieces (0.75kg )
+	-bbq sauce (1/2 cup )
+	-salt
+	-vegtable oil
+
+instructions
+	-prepare: salt and oil chicken
+	-prepare: make fire, one side high heat other medium
+	-start: sear (cook on high heat) skin side of chicken for 10min
+	-cook: turn and cook on medium heat for 20min
+	-cook: add bbq sauce and turn and cook for 20min, do this twice
+	-finish: sear skin side again for 1 minute
+	-finish: add bbq sauce and serve
+https://www.simplyrecipes.com/recipes/barbecued_chicken_on_the_grill/

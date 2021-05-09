@@ -1,0 +1,11 @@
+Section: 2	10	Windows - Local Environment Setup
+Section: 10	12	Laravel Fundamentals - Database - Eloquent / ORM
+Section: 11	17	Laravel Fundamentals - Database - Eloquent Relationships
+Section: 18	11	Forms and Validation
+Section: 26	11	Git and Github - Version Control
+Section: 27	39	Application
+Section: 28	20	Application - Posts
+Section: 31	20	Application - Comments
+Section: 33	12	Upgrade to Laravel 5.3
+Section: 37	13	Extra feature: Deploying our app to a shared hosting account
+Section: 42	12	Extra - Adjustments and more Features

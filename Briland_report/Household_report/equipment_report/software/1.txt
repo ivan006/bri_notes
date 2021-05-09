@@ -1,0 +1,48 @@
+uTorrent 
+Adobe Acrobat Reader DC 
+AnyDesk 
+Apple Application Support (64-bit) 
+Apple Software Update 
+Atom 
+Audacity 23.0 
+BitTorrent 
+Bonjour 
+Canon MP250 series MP Drivers 
+Cisco EAP-FAST Module 
+Cisco LEAP Module 
+Cisco PEAP Module 
+COMODO Antivirus 
+Comodo Dragon Composer - Php Dependency Manager 
+Dropbox 
+FileZilla Client 339.0 
+Free Stopwatch 
+Git version 2.201 
+Google Chrome 
+Intel® Graphics Driver 
+Intel® Management Engine Components 
+Intel® Rapid Storage Technology 
+Intel® USB 3.0 eXtensible Host Controller Driver 
+Internet Security Essentials 
+Java 8 Update 201 (64-bit) 
+LAME v3.99.3 (for Windows) 
+Microsoft .NET Framework 4.7.2 
+Microsoft Excel 2010 
+Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219 
+Microsoft Visual C++ 2010 >86 Redistributable - 10.0.40219 
+Microsoft Visual C++ 2015 Redistributable (x64) -14.0.23026 
+Microsoft Visual C++ 2015 Redistributable (x86) -14.0.24215 
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) 
+Microsoft Word 2010 
+Minecraft112.2 
+Mozilla Firefox 65.01(x64 en-ZA) 
+Oracle VM VirtualBox 6.0.0 
+Realtek Card Reader 
+REALTEK Wireless LAN Driver 
+Samsung Printer Live Update 
+SmartGit 
+Speccy 
+Vagrant 
+Web Companion 
+WinDirStat 112 
+WinRAR 5.61 (64-bit) 
+XAMPP 

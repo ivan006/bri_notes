@@ -1,0 +1,39 @@
+14/11/2018 	
+	transaction: R30000	
+	balance: R30000
+
+21/11/2018
+	gen:
+		transaction: -R17070
+		balance: R12930
+	Honda XR 125
+		transaction: -R 15,500
+	delivery box
+		transaction: -R950
+	bike papers
+		gen
+			transaction: -R620  
+		roadworthy 
+			transaction: -R370
+		vehicle license and tax disc
+			transaction: -R150
+		number plate 
+			transaction: -R100		
+11/05/2020	
+	gen:
+		transaction: +R18000
+		transaction: -R3000
+		balance: R27930
+
+11/05/2020	
+	gen:
+		transaction: +R18000
+		transaction: -R3000
+		balance: R27930
+
+
+
+08/06/2020	
+	gen:
+		transaction: -R3000
+		balance: R24930

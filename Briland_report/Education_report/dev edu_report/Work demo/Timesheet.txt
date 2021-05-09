@@ -1,0 +1,8 @@
+When:		How:	What:
+
+2017-06-10:	5h 5m	Front end
+2017-06-11:	3h 37m	Back end
+2017-06-12:	2h 53m	back end
+
+
+

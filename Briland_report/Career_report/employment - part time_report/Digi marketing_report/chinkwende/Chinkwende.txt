@@ -1,0 +1,35 @@
+Gardening lessons
+	introduction
+		price plan
+			price: R
+		avalabilitiies:
+			good time is saturday from 6:30-7:30
+
+CHinkwende job hunting:
+	INtroduction
+		price plan: 
+			price: R100/hour
+			time: 30m/week
+		availabilities:
+			good time is saturday from 5:30 to 6:30
+		job hunting channels
+			general
+				good ideas: https://blog.junkmail.co.za/how-to-find-and-advertise-domestic-worker-jobs/40677
+			look for position openings
+				newspaper
+				Community notice boards in libraries or shops
+				online.
+					facebookgroups
+						noordhoek
+						fishhoek
+						kommetjie
+					gumtree
+			advertise skills 
+				in same places as above
+		job type
+			house keeping /cleaning
+			sowing
+			baby sitting
+
+			 
+		

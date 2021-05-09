@@ -1,0 +1,191 @@
+    1  apt install nginx
+    2  df -h
+    3  apt update
+    4  apt install php7.2-*
+    5  apt install php7.2
+    6  apt remove apache2
+    7  apt install php7.2
+    8  apt install nginx
+    9  apt purge apache2-*
+   10  apt install nginx
+   11  sudo service nginx start
+   12  sudo service apache2 start
+   13  sudo service apache2 stop
+   14  sudo service apache2 start
+   15  sudo service apache2 stop
+   16  sudo service nginx start
+   17  apt install nginx
+   18  ll /var/www/html/index.html
+   19  cat /var/www/html/index.html
+   20  rm /var/www/html/index.html
+   21  nano /var/www/html/index.html
+   22  nano /var/www/html/index.nginx-debian.html
+   23  cp /etc/nginx/sites-available/default /etc/nginx/sites-available/econet
+   24  nano /etc/nginx/sites-available/econet
+   25  ln -s /etc/nginx/sites-available/econet /etc/nginx/sites-enabled/econet
+   26  service nginx restart
+   27  nginx -t
+   28  nano /etc/nginx/sites-available/econet
+   29  nginx -t
+   30  nano /etc/nginx/sites-available/econet
+   31  nginx -t
+   32  service nginx restart
+   33  service php7.2-fpm restart
+   34  nano /etc/nginx/sites-available/econet
+   35  nginx -t
+   36  tail -f /var/log/nginx/error.log .
+   37  tail -f /var/log/nginx/error.log
+   38  nano /etc/nginx/sites-available/econet
+   39  ervice php7.2-fpm restart
+   40  service nginx restart
+   41  service php7.2-fpm restart
+   42  nano /etc/nginx/sites-available/econet
+   43  service php7.2-fpm restart
+   44  service nginx restart
+   45  nano /etc/nginx/sites-available/econet
+   46  service nginx restart
+   47  nginx -t
+   48  ll /usr/
+   49  nano /etc/nginx/sites-available/econet
+   50  service nginx restart
+   51  service php7.2-fpm restart
+   52  nano /etc/nginx/sites-available/econet
+   53  service nginx restart
+   54  php artisan storage:link
+   55  sudo adduser ftp1user
+   56  exit
+   57  pwd
+   58  ll /home/
+   59  ll ro
+   60  pwd
+   61  apt install git
+   62  cd /var/www/html
+   63  ls
+   64  dir
+   65  ll
+   66  cd /var
+   67  ll
+   68  cd ./
+   69  ll
+   70  cd ../
+   71  ll
+   72  cd ../
+   73  ll
+   74  cd root
+   75  ll
+   76  cd ../
+   77  ll
+   78  pwd
+   79  cd root
+   80  pwd
+   81  cd home
+   82  ll
+   83  cd ../
+   84  cd root
+   85  ll
+   86  pwd
+   87  cd ../
+   88  sudo vim /etc/vsftpd.conf
+   89  git clone
+   90  git clone https://github.com/ivan006/Personal-apps.git
+   91  ll
+   92  cd Personal-apps/
+   93  ll
+   94  cd Econet/
+   95  ll
+   96  apt install composer
+   97  composer install
+   98  apt install php7.2-mbstring  php7.2-dom
+   99  apt install composer
+  100  composer install
+  101  apt install php7.2-zip
+  102  composer install
+  103  ll
+  104  chmod -R www-data: ./
+  105  chown  -R www-data ./
+  106  chown -R www-data: /var/www/html/
+  107  cp index.php public/
+  108  ll public/
+  109  nano .env
+  110  cp .env.example .env
+  111  nano .env
+  112  php artisan key:generate
+  113  php artisan storage:link
+  114  nano app/NetworkM.php
+  115  mkdir storage/app/public
+  116  nano app/NetworkM.php
+  117  sudo apt-get install vsftpd
+  118  sudo vim /etc/vsftpd.conf
+  119  sudo service vsftpd restart
+  120  sudo telnel localhost 21
+  121  sudo telnet localhost 21
+  122  sudo service vsftpd restart
+  123  sudo vim /etc/vsftpd.conf
+  124  sudo tail -f /var/log/vsftpd.log
+  125  sudo apt-get install vsftpd
+  126  ufw status
+  127  sudo telnet localhost 20
+  128  sudo telnet localhost 22
+  129  sudo vim /etc/vsftpd.conf
+  130  sudo service vsftpd restart
+  131  ps -aux | grep vsftpd
+  132  sudo netstat -ntaulp | grep vsftpd
+  133  sudo service vsftpd start
+  134  sudo netstat -ntaulp | grep vsftpd
+  135  netstat sudo tail -f /var/log/vsftpd.log
+  136  sudo tail -f /var/log/vsftpd.log
+  137  sudo vim /etc/vsftpd.conf
+  138  sudo service vsftpd start
+  139  vsftpd
+  140  sudo vim /etc/vsftpd.conf
+  141  sudo service vsftpd start
+  142  sudo netstat -ntaulp | grep vsftpd
+  143  sudo telnet localhost 21
+  144  sudo service vsftpd start
+  145  sudo service vsftpd restart
+  146  ll
+  147  history
+  148  pwd
+  149  cd ../
+  150  ll
+  151  history | grep
+  152  history | grep 'pw
+  153  history | grep 'pw'
+  154  history | grep 'pw
+  155  history | grep "pw"
+  156  pwd
+  157  cd var
+  158  ll
+  159  cd www
+  160  ll
+  161  cd html
+  162  ll
+  163  cd Personal-apps/
+  164  ll
+  165  git status
+  166  git diff
+  167  git fetch
+  168  git diff
+  169  git fetch
+  170  git status
+  171  git pull
+  172  git status
+  173  ?it status
+  174  git status
+  175  cat ~/.ssh/
+  176  cat ~/.ssh/id_rsa.pub
+  177  it  pull
+  178  git  pull
+  179  git pull
+  180  harmony
+  181  cd ../../../../
+  182  harmony
+  183  source ~/.bashrc
+  184  harmony
+  185  exit
+  186  harmony
+  187  ll
+  188  cd app
+  189  ll
+  190  nano SmartDataGroupM.php
+  191  history

@@ -1,0 +1,18 @@
+An income tax return has been generated for you containing the latest employee 
+tax certificate [IRP5/IT3(a)] information that SARS has received for you from 
+your employer/s. If your return does not contain all your tax certificate 
+information it means that:
+1. Either your employer/s has not yet submitted this information to SARS or
+2. SARS is unable to match you to a tax certificate/s due to incomplete or 
+inaccurate information on these certificates (e.g. it does not contain your 
+ID or tax reference number).
+
+SARS recommends that in such cases you do not file this return and rather try 
+again later by refreshing your IRP5 data on the Income Tax Work page.
+
+If you choose to file this return, please be advised that the processing of 
+this return may be significantly delayed and you may be required to submit 
+supporting documentation.
+
+Please note that all address details  (both physical and postal) must be those 
+of the Taxpayer and not those of a Tax Practitioner.

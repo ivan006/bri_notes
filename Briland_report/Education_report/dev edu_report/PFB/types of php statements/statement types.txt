@@ -1,0 +1,25 @@
+Data Types and More
+	Variables in PHP
+	Math
+	Arrays
+	Associative Arrays
+
+Control Structures
+	if Statements
+	Comparison and Logical Operators
+	Switch Statements in PHP
+	While Loop in PHP
+	For Loop in PHP
+	Foreach Loop in PHP
+
+Custom Functions
+	Defining functions
+ 	Function Parameters
+	Return Values From Functions
+	Global Variable and Scope
+	Constants
+
+PHP Built-in Functions
+	Math Functions
+	String Functions
+	Array Functions

@@ -1,0 +1,156 @@
+2020/03/21 -- Career mng. --  --  -- CV refinement -- 01:40:00
+2020/03/21 -- Career mng. --  --  -- portfolio refinement -- 02:17:00
+2020/03/22 -- Career mng. --  --  -- portfolio refinement -- 00:10:00
+2020/03/22 -- Clutter mng. --  --  -- decluttering dads store room -- 02:12:00
+2020/03/22 -- Bike mng. --  --  -- cleaning bike chain -- 02:22:00
+2020/03/23 -- Community viral health mng. --  --  -- writing instructions -- 01:50:00
+2020/03/23 -- Career mng. --  --  -- portfolio refinement -- 03:27:00
+2020/03/24 -- Clutter mng. --  --  -- decluttering 2nd kitchen -- 01:00:00
+2020/03/24 -- Career mng. --  --  -- CV refinement -- 04:00:00
+2020/03/25 -- Career mng. --  --  -- CV refinement -- 00:22:00
+2020/03/26 -- Career mng. --  --  -- CV refinement -- 01:45:00
+2020/03/27 -- Career mng. --  --  -- CV refinement -- 01:37:00
+2020/03/28 -- Career mng. --  --  -- applying for jobs -- 01:55:00
+2020/03/30 -- Career mng. --  --  -- applying for jobs -- 00:55:00
+2020/04/01 -- Career mng. --  -- applying for jobs -- lima bean -- 04:24:00
+2020/04/02 -- Career mng. --  -- applying for jobs -- lima bean -- 04:51:00
+2020/04/02 -- Career mng. --  -- applying for jobs -- h93 -- 00:37:00
+2020/04/03 -- Career mng. --  -- applying for jobs -- lima bean -- 02:22:00
+2020/04/06 -- Career mng. -- applying for jobs -- lima bean -- trying to give them all required paper work -- 01:10:00
+2020/04/06 -- Career mng. -- applying for jobs -- hangar49 -- interview -- 00:37:00
+2020/03/06 -- Education --  -- practice project -- FlexFile3 - inventing a data format (flexdata format) -- 01:37:00
+2020/04/07 -- Career mng. -- applying for jobs -- hangar49 -- interview -- 01:47:00
+2020/04/08 -- Career mng. -- applying for jobs -- hangar49 -- requirements -- 01:07:00
+2020/04/08 -- Career mng. -- applying for jobs -- hangar49 -- solution -- 01:10:00
+2020/04/09 -- Career mng. -- applying for jobs --  -- general browsing -- 01:00:00
+2020/03/09 -- Education --  -- practice project -- FlexReport cms - inventing a data format (reportdata format) -- 01:10:00
+2020/04/09 -- Career mng. -- applying for jobs --  -- trying to be productive with job applications at devins (wifi problemms) -- 00:45:00
+2020/03/09 -- Education --  -- practice project -- FlexReport cms - inventing a data format (reportdata format) -- 00:30:00
+2020/03/10 -- Education --  -- practice project -- FlexReport cms - inventing a data format (reportdata format) -- 01:40:00
+2020/04/12 -- Career mng. -- applying for jobs --  -- trying to be productive with job applications at devins (wifi problemms) -- 01:30:00
+2020/04/13 -- Career mng. -- applying for jobs -- hangar49 -- solution -- 00:55:00
+2020/04/14 -- Career mng. -- applying for jobs -- hangar49 -- solution -- 01:54:00
+2020/04/14 -- Career mng. -- applying for jobs --  -- general browsing -- 01:00:00
+2020/04/15 -- Career mng. -- applying for jobs -- hangar49 -- insalling datatables -- 01:05:00
+2020/04/15 -- Career mng. -- applying for jobs -- hangar49 -- planning requirements -- 00:03:00
+2020/04/15 -- Career mng. -- applying for jobs -- hangar49 -- integrating with google sheets -- 01:33:00
+2020/04/15 -- Career mng. -- applying for jobs -- hangar49 -- integrating with hubspot -- 02:20:00
+2020/04/15 -- Career mng. --  -- applying for jobs -- esp -- 00:12:00
+2020/04/16 -- Career mng. --  -- applying for jobs -- esp - call interviews -- 00:50:00
+2020/04/16 -- Career mng. --  -- applying for jobs -- esp - research into company -- 00:14:00
+2020/04/16 -- Career mng. -- applying for jobs --  -- general browsing -- 00:22:00
+2020/04/16 -- Career mng. -- applying for jobs -- hangar49 -- integrating with hubspot -- 01:15:00
+2020/04/17 -- Lifestyle mng. --  --  -- gridulizing -- 00:10:00
+2020/04/17 -- Career mng. -- applying for jobs -- hangar49 -- integrating with hubspot -- 04:28:00
+2020/04/17 -- Career mng. --  -- applying for jobs -- esp - call interviews -- 00:16:00
+2020/04/18 -- Career mng. -- applying for jobs -- hangar49 -- integrating with hubspot -- 02:19:00
+2020/04/19 -- Career mng. -- applying for jobs -- hangar49 -- integrating with hubspot -- 03:02:00
+2020/04/20 -- Career mng. -- applying for jobs -- ESP -- php assignment - implementing erroneous solutions -- 01:22:00
+2020/04/20 -- Career mng. -- applying for jobs -- ESP -- php assignment - planning requirements -- 00:39:00
+2020/04/20 -- Career mng. -- applying for jobs -- ESP -- php assignment - implementing solutions -- 03:50:00
+2020/04/20 -- Career mng. -- applying for jobs -- ESP -- interview -- 00:04:00
+2020/04/21 -- Career mng. -- applying for jobs --  -- general browsing -- 00:20:00
+2020/04/21 -- Career mng. -- applying for jobs -- ESP -- php assignment -planning requirements -- 00:17:00
+2020/04/21 -- Career mng. -- applying for jobs -- ESP -- php assignment - implementing solutions -- 01:15:00
+2020/04/21 -- Career mng. -- applying for jobs -- hangar49 -- integrating with woodpecker -- 02:49:00
+2020/04/21 -- Career mng. -- applying for jobs -- ESP -- interview -- 00:05:00
+2020/04/22 -- Career mng. -- applying for jobs -- hangar49 -- integrating with woodpecker -- 03:10:00
+2020/04/23 -- Career mng. -- applying for jobs --  -- general browsing -- 00:06:00
+2020/04/23 -- Career mng. -- applying for jobs -- ESP -- interview -- 00:15:00
+2020/04/23 -- Drone eye --  --  -- invoicing drone eye -- 00:11:00
+2020/04/23 -- Career mng. -- applying for jobs -- hangar49 -- fixing api keys and update functionality and cross db mapping and diff report -- 05:33:00
+2020/04/24 -- Career mng. -- applying for jobs -- hangar49 -- fixing api migration-- 00:28:00
+2020/04/24 -- Career mng. -- applying for jobs -- hangar49 -- interview -- 01:03:00
+2020/04/24 -- Education --  -- practice project -- FlexFile3 - making file data manager -- 02:07:00
+2020/04/26 -- Education --  -- practice project -- FlexFile3 - making file data manager -- 02:53:00
+2020/04/26 -- Education --  -- practice project -- FlexFile3 - making file data manager -- 05:40:00
+2020/04/26 -- Career mng. -- applying for jobs --  -- general browsing -- 00:06:0
+2020/04/29 -- Education --  -- practice project -- Startupify - making file data manager -- 04:00:00
+2020/04/30 -- mat site --  --  -- setting up payment method, seeing how to embed google charts and seeing how to set up wordpress site -- 00:45:00
+2020/04/30 -- mat site --  --  -- discussing customer filters -- 01:00:00
+2020/04/30 -- Education --  -- practice project -- Startupify - making file data manager -- 02:00:00
+2020/05/01 -- Education --  -- practice project -- Startupify - making file data manager -- 00:45:00
+2020/05/03 -- Education --  -- practice project -- Startupify - making file data manager -- 04:20:00
+2020/05/04 -- Education --  -- practice project -- Startupify - making file data manager -- 07:15:00
+2020/05/05 -- Education --  -- practice project -- Startupify - making file data manager -- 04:40:00
+2020/05/05 -- Career mng. -- applying for jobs --  -- general browsing -- 00:16:00
+2020/05/06 -- Education --  -- practice project -- Startupify - making file data manager -- 01:35:00
+2020/05/06 -- Education --  -- practice project -- Startupify - testing it -- 02:00:00
+2020/05/06 -- Career mng. -- applying for jobs --  -- general browsing -- 01:10:00
+2020/05/07 -- Education --  -- practice project -- Startupify - making file data manager -- 03:00:00
+2020/05/07 -- Career mng. -- negotiating with payment --  -- showing kindness to mark -- 00:27:00
+2020/05/08 -- Education --  -- practice project -- Startupify - making file data manager -- 00:20:00
+2020/05/10 -- Education --  -- practice project -- Startupify - making file data manager -- 01:12:00
+2020/05/11 -- Education --  -- practice project -- Startupify - making file data manager -- 06:10:00
+2020/05/12 -- Career mng. -- applying for jobs -- hangar49 -- interview -- 00:15:00
+2020/05/12 -- Education --  -- practice project -- Startupify - making file data manager -- 03:40:00
+2020/05/13 -- Education --  -- practice project -- Startupify - making file data manager -- 06:00:00
+2020/05/15 -- Education --  -- practice project -- Startupify - making file data manager -- 00:25:00
+2020/06/21 -- Education --  -- practice project -- Startupify - dropbox client -- 02:13:00
+2020/06/25 -- Education --  -- practice project -- Startupify - dropbox client -- 00:55:00
+2020/06/26 -- Education --  -- practice project -- Startupify - dropbox client -- 00:30:00
+2020/07/04 -- Career mng. --  --  -- applying for jobs -- 02:00:00
+2020/07/05 -- Career mng. --  --  -- applying for jobs -- 00:15:00
+2020/07/07 -- Career mng. --  --  -- applying for jobs -- 01:00:00
+2020/07/07 -- Education --  -- practice project -- Startupify - dropbox client -- 00:10:00
+2020/07/12 -- Career mng. --  -- hangar49 -- invoicing for july -- 00:15:00
+2020/07/12 -- Career mng. --  -- applying for jobs --  -- 01:00:00
+2020/07/12 -- Education --  -- practice project -- Startupify - dropbox client -- 01:20:00
+2020/07/13 -- Education --  -- practice project -- Startupify - dropbox client -- 04:10:00
+2020/07/13 -- Career mng. --  -- hangar49 -- invoicing for july -- 00:21:00
+2020/07/14 -- Education --  -- practice project -- Startupify - dropbox client -- 06:37:00
+2020/07/15 -- Education --  -- practice project -- Startupify - dropbox client -- 05:48:00
+2020/07/16 -- Education --  -- practice project -- Startupify - dropbox client -- 04:55:00
+2020/07/16 -- Career mng. --  -- applying for jobs --  -- 01:05:00
+2020/07/16 -- Career mng. --  -- Gold management --  -- 00:15:00
+2020/07/17 -- Education --  -- practice project -- Startupify - dropbox client -- 07:04:00
+2020/07/17 -- Career mng. --  -- applying for jobs --  -- 00:25:00
+2020/07/18 -- Education --  -- practice project -- Startupify - dropbox client -- 01:07:00
+2020/07/20 -- Education --  -- practice project -- Startupify - dropbox client -- 06:10:00
+2020/07/21 -- Education --  -- practice project -- Startupify - dropbox client -- 02:10:00
+2020/07/23 -- Career mng. --  -- Networking --  -- 00:13:00
+2020/07/24 -- Education --  -- practice project -- Startupify - dropbox client -- 00:30:00
+2020/07/24 -- Education --  -- python --  -- 03:30:00
+2020/07/25 -- Education --  -- python --  -- 01:10:00
+2020/07/26 -- Career mng. --  -- E-rider -- initial consultation -- 01:20:00
+2020/07/27 -- Education --  -- python --  -- 01:30:00
+2020/07/28 -- Education --  -- python --  -- 05:00:00
+2020/07/29 -- Education --  -- python --  -- 02:24:00
+2020/07/30 -- Education --  -- python --  -- 02:47:00
+2020/07/30 -- Education --  -- python --  -- 01:10:00
+2020/08/03 -- Education --  -- python --  -- 01:30:00
+2020/08/04 -- Education --  -- python --  -- 02:17:00
+2020/08/06 -- Education --  -- python --  -- 01:25:00
+2020/08/07 -- Education --  -- python --  -- 01:00:00
+2020/08/08 -- Education --  -- python --  -- 00:45:00
+2020/08/10 -- Education --  -- python --  -- 00:07:00
+2020/08/15 -- Career mng. --  -- applying for jobs --  -- 00:17:00
+2020/08/16 -- Career mng. --  -- applying for jobs --  -- 00:56:00
+2020/08/16 -- Education -- e-commerce -- takealot --  -- 00:06:00
+2020/08/20 -- Education --  -- practice project -- Pagify - image support -- 00:37:00
+2020/08/21 -- Education --  -- practice project -- Pagify - image support -- 01:45:00
+2020/08/22 -- Education --  -- practice project -- Pagify - image support -- 01:51:00
+2020/08/23 -- Education --  -- practice project -- Pagify - image support -- 00:12:00
+2020/08/24 -- Education --  -- python --  -- 00:50:00
+2020/08/25 -- Education --  -- python --  -- 00:03:00
+2020/08/25 -- Career mng. --  -- applying for jobs --  -- 01:30:00
+2020/08/26 -- Career mng. --  -- applying for jobs --  -- 01:20:00
+2020/08/27 -- Education --  -- big data --  -- 00:59:00
+2020/09/02 -- Career mng. --  -- applying for jobs --  -- 00:16:00
+2020/09/02 -- Career mng. --  -- career support --  -- 00:23:00
+2020/09/02 -- Education --  -- python --  -- 01:00:00
+2020/09/03 -- Education --  -- python --  -- 02:03:00
+2020/09/03 -- Education --  -- practice project -- Folder page renderer -- 00:30:00
+2020/09/09 -- Education --  -- python --  -- 01:31:00
+2020/09/10 -- Education --  -- data analytics software  --  -- 02:01:00
+2020/09/20 -- Household --  --  -- Sweeping -- 01:40:00
+2020/09/28 -- Household --  --  -- Sweeping -- 01:02:00
+2020/10/02 -- Career mng. --  -- applying for jobs --  -- 00:47:00
+2020/10/12 -- Household --  --  -- Sweeping -- 01:30:00
+2021/01/17 -- Career mng. --  -- surveying job market --  -- 02:00:00
+2021/01/23 -- Career mng. --  -- applying for jobs --  -- 02:10:00
+2021/01/24 -- Career mng. --  -- applying for jobs --  -- 02:00:00
+2021/01/24 -- Career mng. --  -- applying for jobs --  -- 03:40:00
+2021/02/06 -- Career mng. --  -- applying for jobs --  -- 01:16:00
+2021/02/07 -- Career mng. --  -- applying for jobs --  -- 05:12:00
+2021/03/06 -- Career mng. --  -- applying for jobs --  -- 01:00:00

@@ -1,0 +1,54 @@
+
+2020/04/01 -- Hex -- travel plans --  -- canceling insurance -- 00:44:00
+2020/04/02 -- Hex -- travel plans --  -- canceling insurance -- 00:30:00
+2020/04/02 -- AAA -- reviewing timesheets --  -- there were some points that needed clarifying -- 00:36:00
+2020/04/05 -- Hex -- travel plans --  -- canceling insurance -- 00:20:00
+2020/04/06 -- Hex -- travel plans --  -- canceling insurance -- 00:10:00
+2020/04/08 -- Hex -- travel plans --  -- canceling insurance -- 00:45:00
+2020/04/08 -- Hex -- invoicing --  -- invoicing AAA for server -- 00:15:00
+2020/04/14 -- Hex -- travel plans --  -- canceling insurance -- 00:20:00
+2020/04/14 -- Hex -- paying ivan --  -- negotiating payment -- 00:13:00
+2020/04/16 -- Hex -- paying ivan --  -- negotiating payment -- 00:33:00
+2020/04/17 -- Hex -- paying ivan --  -- negotiating payment -- 00:36:00
+2020/04/22 -- Hex -- travel plans --  -- canceling insurance -- 00:23:00
+2020/04/23 -- Hex -- travel plans --  -- canceling insurance -- 00:20:00
+2020/04/23 -- Hex -- paying ivan --  -- negotiating payment -- 00:38:00
+2020/05/05 -- Hex -- travel plans --  -- canceling insurance -- 00:08:00
+2020/07/08 -- Hex -- paying ivan --  -- negotiating payment -- 00:50:00 --  -- 
+2020/07/14 -- Hex -- paying ivan --  -- catch up meeting -- 00:20:00
+2020/07/25 -- Hex -- paying ivan --  -- negotiating payment with mandy -- 00:30:00
+2020/07/30 -- Hex -- paying ivan --  -- negotiating payment with mandy -- 00:35:00
+
+uploaded start
+
+2020/09/14 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 01:30:00
+2020/09/15 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 02:40:00
+2020/09/16 -- Abang/AAA --  -- Dom induction --  -- 02:50:00
+2020/09/17 -- Hex --  -- Dom induction -- Codeigniter training -- 06:33:00
+2020/09/17 -- Hex --  -- Dom induction -- Codeigniter training -- 00:40:00
+2020/09/17 -- Hex --  -- Dom induction -- Codeigniter training -- 01:05:00
+2020/09/18 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 02:20:00
+2020/09/20 -- Hex --  -- Dom induction -- Codeigniter training -- 02:50:00
+2020/09/21 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 06:00:00
+2020/09/22 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 02:22:00
+2020/09/23 -- Abang/AAA -- supplier portal -- supplier images -- quote compatabilty bugs -- 01:45:00
+2020/09/23 -- Hex --  -- Dom induction -- package page -- 00:40:00
+2020/09/25 -- Abang/AAA --  -- Kindling --  --  meeting -- 01:40:00
+2020/09/28 -- Hex --  -- Dom induction -- package page -- 01:40:00
+2020/09/29 -- Hex --  -- Dom induction -- package page -- 01:30:00
+2020/09/30 -- Hex --  -- Dom induction -- package page -- 01:22:00
+2020/09/30 -- Hex --  -- Wireframes --  meeting -- 00:23:00
+2020/10/01 -- Abang/AAA --  -- Dom induction -- FTP settup for shareafrica -- 00:53:00
+2020/10/02 -- Abang/AAA --  -- Dom induction -- reports analysis -- 00:24:00
+2020/10/02 -- Abang/AAA --  -- Reports -- tour summary report -- 02:40:00
+2020/10/03 -- Abang/AAA --  -- Reports -- tour summary report -- 00:36:00
+2020/10/05 -- Abang/AAA --  -- Reports -- tour summary report requirements -- 01:04:00 -- 665fe6be and document/d/1HPhVxveBkfhDYhBJ3oQ18PPMi8eGDmumlGSsg2gFvUY
+2020/10/05 -- Abang/AAA --  -- Reports -- tour summary report solution -- 04:00:00 -- cc161149
+2020/10/06 -- Abang/AAA --  -- Reports -- tour summary report solution -- 02:00:00 -- 93acb8f8
+
+uploaded end
+
+
+2020/10/15 -- Abang/AAA --  -- Roadmap discussion -- 01:00:00 -- document/d/1UUJ4AeK0Mfg4Yk61D8YYoodH9CO5Np5nXgJfMN8oUkg
+
+

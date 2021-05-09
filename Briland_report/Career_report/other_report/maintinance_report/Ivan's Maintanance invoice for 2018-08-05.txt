@@ -1,0 +1,17 @@
+Maintanance Invoice				
+				
+-Income Suplimentation Budget				
+							
+--HEX digital marketing:				
+				
+---when		what		how
+				
+---29 July	2500			
+				
+---subtotal:	2500			
+				
+				
+-total:	R2500
+
+paid: yes
+			

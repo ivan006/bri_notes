@@ -1,0 +1,27 @@
+95	gas
+440	stuff
+19	milk
+15	stew
+21	milk
+33	toast
+12	peas
+15	petrol
+7	salad
+24	burger
+75	toast
+164	day in town
+5	soup
+37	chicken roll
+100	elec
+2	eggs
+30	petrol
+40	stew
+-1.5	apples
+-2	chips
+-6	marg
+
+
+1124.50	total
+-900
+
+

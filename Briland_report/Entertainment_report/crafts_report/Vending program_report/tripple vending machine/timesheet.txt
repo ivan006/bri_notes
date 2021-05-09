@@ -1,0 +1,5 @@
+when		what	how
+			
+2018-03-03	10m	mktg
+2018-03-05	2h	mktg
+2018-03-0	36m	mktg

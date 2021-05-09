@@ -1,0 +1,9 @@
+1. develop a superimposing technique for superimposing multiple instances of a 
+shape onto intself
+
+2. make a shape and list it in a list titled shapes
+
+3. impiment the superimposing technique on the most recent item listed on the 
+shape list and then list the resultant shape as the new most recent shape 
+
+4. remimpliment step 3 as many times as you have time for

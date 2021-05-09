@@ -1,0 +1,4 @@
+when		what		date rewarded
+				
+2017-11-30	50 profit	
+2017-11-30	115 profit 	

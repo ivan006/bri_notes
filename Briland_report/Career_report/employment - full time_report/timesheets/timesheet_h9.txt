@@ -1,0 +1,134 @@
+2020-05-14 -- H49 -- Induction --  --  -- 2:51:00
+2020-05-14 -- H49 -- Mail system -- Setup --  -- 2:50:00
+2020-05-14 -- H49 -- Mail system -- Setup --  -- 3:06:00
+2020-05-15 -- H49 -- Mail system -- Setup --  -- 9:21:00
+2020-05-15 -- H49 -- Mail system -- Setup --  -- 0:27:00
+2020-05-15 -- H49 -- Induction --  --  -- 0:26:00
+2020-05-16 -- H49 -- Mail system -- Setup -- Critial error -- 3:13:00
+2020-05-17 -- H49 -- Mail system -- Setup -- Critial error -- 1:16:00
+2020-05-17 -- H49 -- Mail system -- Setup --  -- 2:02:00
+2020-05-18 -- H49 -- Mail system -- Setup --  -- 2:21:00
+2020-05-18 -- H49 -- Induction --  --  -- 0:15:00
+2020-05-18 -- H49 -- Mail system -- Setup --  -- 4:29:00
+2020-05-18 -- H49 -- Mail system -- Configuration --  -- 2:24:00
+2020-05-19 -- H49 -- Mail system -- Configuration --  -- 2:07:00
+2020-05-19 -- H49 -- Induction --  --  -- 0:25:00
+2020-05-19 -- H49 -- Mail system -- Setup -- Ip pools -- 3:24:00
+2020-05-19 -- H49 -- Mail system --  --  -- 1:40:00
+2020-05-19 -- H49 -- Mail system -- Setup -- Ip pools -- 0:55:00
+2020-05-19 -- H49 -- Induction --  --  -- 0:11:00
+2020-05-19 -- H49 -- Mail system -- Resourcing -- Buying new server -- 1:20:00
+
+free of charge end
+
+2020-05-20 -- H49 -- Mail system -- Setup --  -- 5:04:00
+2020-05-20 -- H49 -- Standup --  --  -- 0:30:00
+2020-05-20 -- H49 -- Content -- Expertise blog --  -- 0:08:00
+2020-05-20 -- H49 -- Mail system -- Configuration --  -- 0:10:00
+2020-05-20 -- H49 -- Mail system -- Configuration --  -- 2:11:00
+2020-05-21 -- H49 -- Mail system -- Configuration --  -- 3:11:00
+2020-05-21 -- H49 -- Mail system -- Configuration -- Ip pools -- 2:32:00
+2020-05-20 -- H49 -- Mail system -- Configuration --  -- 0:49:00
+2020-05-21 -- H49 -- Mail system -- Configuration -- Ip pools -- 7:41:00
+2020-05-21 -- H49 -- Mail system -- Configuration --  -- 1:40:00
+2020-05-23 -- H49 -- Mail system -- Configuration -- Ip pools -- 1:00:00
+2020-05-24 -- H49 -- Mail system -- Configuration -- Ip pools -- 1:54:00
+2020-05-25 -- H49 -- Content -- Expertise blog --  -- 1:30:00
+2020-05-25 -- H49 -- Mail system -- Health --  -- 0:50:00
+2020-05-25 -- H49 -- Mail system -- Health -- Network health -- 5:57:00
+2020-05-26 -- H49 -- Mail system -- Health -- Network health -- 0:11:00
+2020-05-26 -- H49 -- Mail system -- Health -- Network health - -- 4:35:00
+2020-05-26 -- H49 -- Mail system -- Off-the-shelf --  -- 0:57:00
+2020-05-26 -- H49 -- Mail system -- Off-the-shelf --  -- 1:25:00
+2020-05-26 -- H49 -- Scraper --  --  -- 0:48:00
+2020-05-26 -- H49 -- Linkin manager --  --  -- 0:55:00
+2020-05-27 -- H49 -- Mail system -- Health -- Network health - -- 0:27:00
+2020-05-27 -- H49 -- Content -- Expertise blog --  -- 3:03:00
+2020-05-27 -- H49 -- Mail system -- Off-the-shelf --  -- 4:00:00
+2020-05-27 -- H49 -- Mail system -- Configuration -- Fixing Volume health - -- 1:00:00
+2020-05-28 -- H49 -- Mail system -- Sparkpost -- -- 04:45:00 -- 
+2020-05-28 -- H49 -- Mail system -- Sparkpost --  -- 0:55:00
+2020-05-28 -- H49 -- Mail system -- Configuration --  -- 3:54:00
+2020-05-28 -- H49 -- Mail system -- Health -- Volume health -- 0:20:00
+2020-05-29 -- H49 -- Mail system -- Configuration --  -- 3:46:00
+2020-05-29 -- H49 -- Mail system -- Sparkpost --  -- 0:40:00
+2020-05-29 -- H49 -- Mail system -- Health -- Volume health -- 1:02:00
+2020-05-29 -- H49 -- Mail system -- Configuration --  -- 1:55:00
+2020-05-31 -- H49 -- Mail system -- Health -- Volume health -- 1:46:00
+2020-06-01 -- H49 -- Mail system -- Health -- Engagement health -- 1:03:00
+2020-06-01 -- TribalScale -- Mail system -- Configuration --  -- 4:55:00
+2020-06-01 -- TribalScale -- Mail system -- Inbox --  -- 3:30:00
+2020-06-02 -- TribalScale -- Mail system -- Inbox --  -- 7:55:00
+2020-06-02 -- TribalScale -- Mail system -- Health -- Engagement health -- 1:08:00
+2020-06-03 -- TribalScale -- Mail system -- Installation -- Outbox -- 1:30:00
+2020-06-03 -- H49 -- Content -- Expertise blog --  -- 0:33:00
+2020-06-04 -- H49 -- Mail system -- Health --  -- 05:15:00
+2020-06-04 -- TribalScale -- Mail system -- Inbox --  -- 2:22:00
+2020-06-05 -- TribalScale -- Mail system -- Inbox --  -- 5:30:00
+2020-06-05 -- TribalScale -- Mail system -- Outbox --  -- 0:30:00
+2020-06-06 -- TribalScale -- Mail system -- Inbox --  -- 0:30:00
+2020-06-08 -- H49 -- Linkin system --  --  -- 0:27:00
+2020-06-08 -- TribalScale -- Mail system -- Health --  -- 5:30:00
+2020-06-08 -- TribalScale -- Mail system -- Outbox --  -- 0:30:00
+2020-06-09 -- TribalScale -- Mail system -- Outbox --  -- 7:10:00
+2020-06-10 -- TribalScale -- Mail system -- Outbox --  -- 5:20:00
+2020-06-10 -- TribalScale -- Mail system -- Health --  -- 1:20:00
+2020-06-10 -- H49 -- Content -- Expertise blog --  -- 0:20:00
+2020-06-10 -- TribalScale -- Mail system -- Inbox --  -- 0:30:00
+2020-06-10 -- TribalScale -- Mail system -- Outbox - alt --  -- 1:00:00
+2020-06-11 -- TribalScale -- Mail system -- Outbox --  -- 9:15:00
+2020-06-12 -- TribalScale -- Mail system -- Delivery system --  -- 8:15:00
+2020-06-13 -- TribalScale -- Mail system -- Delivery system --  -- 2:00:00
+2020-06-15 -- TribalScale -- Mail system -- Delivery system --  -- 8:23:00
+2020-06-16 -- TribalScale -- Mail system -- Health --  -- 0:53:00
+2020-06-16 -- TribalScale -- Mail system -- Delivery/Storage --  -- 2:20:00
+2020-06-16 -- H49 -- Scraper --  --  -- 2:33:00
+2020-06-17 -- TribalScale -- Mail system -- Health --  -- 1:05:00
+2020-06-17 -- H49 -- Scraper --  --  -- 4:30:00
+2020-06-17 -- TribalScale -- Mail system -- Outbox --  -- 1:10:00
+2020-06-18 -- H49 -- Scraper --  --  -- 5:00:00
+2020-06-18 -- TribalScale -- Mail system -- Inbox --  -- 1:04:00
+2020-06-19 -- TribalScale -- Mail system -- Inbox --  -- 3:22:00
+2020-06-19 -- H49 -- Scraper --  --  -- 1:45:00
+2020-06-19 -- H49 -- Induction --  --  -- 2:07:00
+2020-06-20 -- TribalScale -- Mail system -- Inbox --  -- 1:50:00
+2020-06-22 -- H49 -- Contact system --  --  -- 5:25:00
+2020-06-22 -- TribalScale -- Mail system -- Health --  -- 0:47:00
+2020-06-22 -- H49 -- Content -- Expertise blog --  -- 0:53:00
+2020-06-23 -- H49 -- Contact system -- Sources --  -- 3:20:00
+2020-06-23 -- H49 -- Contact system -- Scraper --  -- 2:42:00
+2020-06-23 -- TribalScale -- Mail system -- Health --  -- 0:20:00
+2020-06-23 -- TribalScale -- Mail system -- Delivery system --  -- 0:45:00
+2020-06-24 -- H49 -- Contact system -- Scraper --  -- 6:20:00
+2020-06-24 -- TribalScale -- Mail system -- Health --  -- 0:10:00
+2020-06-25 -- TribalScale -- Mail system -- Health --  -- 2:10:00
+2020-06-25 -- H49 -- Contact system -- Scraper --  -- 6:27:00
+2020-06-26 -- H49 -- Contact system -- Scraper --  -- 5:12:00
+2020-06-26 -- TribalScale -- Mail system -- Health --  -- 0:34:00
+2020-06-27 -- Hangar49 -- Mail system -- Delivery system --  -- 0:30:00
+2020-06-28 -- Hangar49 -- Mail system -- Delivery system --  -- 0:25:00
+2020-06-29 -- Hangar49 -- Mail system -- Delivery system --  -- 10:10:00
+2020-06-29 -- Hangar49 -- Mail system -- Mautic comparison --  -- 0:20:00
+2020-06-29 -- Hangar49 -- Induction -- Discussing my work practices  --  -- 0:20:00
+2020-06-30 -- H49 -- Contact system -- Scraper --  -- 7:23:00
+2020-07-01 -- H49 -- Contact system -- Scraper --  -- 4:57:00
+2020-07-01 -- H49 -- Contact system -- Source --  -- 2:05:00
+2020-07-02 -- H49 -- Contact system -- Source --  -- 3:58:00
+2020-07-02 -- H49 -- Contact system -- Scraper --  -- 2:55:00
+2020-07-03 -- H49 -- Contact system -- Source --  -- 0:15:00
+2020-07-03 -- H49 -- Contact system -- Scraper --  -- 6:30:00
+2020-07-06 -- H49 -- Contact system -- Scraper --  -- 6:00:00
+2020-07-06 -- Hangar49 -- Mail system -- Phasing out outreach-hangar --  -- 0:45:00
+2020-07-07 -- Hangar49 -- Mail system -- Phasing out outreach-hangar --  -- 1:00:00
+2020-07-07 -- H49 -- Contact system -- Scraper --  -- 1:40:00
+2020-07-07 -- H49 -- Contact system -- Sources --  -- 4:12:00
+2020-07-08 -- H49 -- Contact system -- Sources --  -- 3:40:00
+2020-07-08 -- H49 -- Contact system -- Scraper --  -- 2:30:00
+2020-07-08 -- JagMethod --  -- Meeting --  -- 0:23:00
+2020-07-09 -- H49 -- Contact system -- Scraper --  -- 1:44:00
+2020-07-09 -- H49 -- Contact system -- UI --  -- 4:56:00
+2020-07-10 -- H49 -- Contact system -- Sources --  -- 4:27:00
+2020-07-10 -- H49 -- Contact system -- UI --  -- 1:44:00
+2020-07-13 -- H49 -- Contact system -- Sources --  -- 0:07:00
+
+

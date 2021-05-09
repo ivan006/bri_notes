@@ -1,0 +1,8 @@
+
+maintanance: R2014.75 (based on 50% of my income which was R4 029.5, R3480(basic)+549.5(overtime))				
+netflix: -R100
+loan: -R200
+total: 1714.75
+
+
+paid: yes

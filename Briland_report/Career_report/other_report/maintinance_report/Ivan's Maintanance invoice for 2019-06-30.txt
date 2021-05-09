@@ -1,0 +1,8 @@
+
+maintanance: R2540 (based on 50% of my income which was R5080, R5080(basic)+(R0 overtime))				
+netflix: -R140
+total: R2400
+
+
+paid: no		
+	

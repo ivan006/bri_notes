@@ -1,0 +1,10 @@
+Date (y/m/d):	Product:	Price:	Paid:	Qty(month):
+
+2017-01-01:	Room Rent	2000	Yes	1-------
+2017-02-01:	Room Rent	2000	Yes	1-------
+2017-03-01:	Room Rent	2000	No	1-------
+
+
+
+2017-06-01:	Internet	200	yes
+2017-07-01:	Internet	200	yes	

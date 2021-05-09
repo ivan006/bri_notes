@@ -1,0 +1,27 @@
+intro:
+this is the dataset and calculation for my "tips as a percentage of income":
+
+the dataset:
+
+note: values are rounded for readbility
+
+jan-5th: 900
+jan-19th: 800
+jan-26th: 100
+feb-1st: 100
+feb-2nd: 600
+feb-9th: 700
+
+subtotal: 3200
+
+tip: 1000
+
+total: 4200
+
+the calculation:
+
+tips as % of income = (tips/income)*100
+= (1000/4200)*100
+= 23.8
+~ 1/4
+

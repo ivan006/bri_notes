@@ -1,0 +1,33 @@
+AccuTran Global				no
+Automatic Data Processing (ADP)		maybe
+Amazon's Mechanical Turk		maybe,more
+Aim-for-A Tutoring			no
+Appen Butler Hill			maybe,more
+BrainMass				no
+CCI Call Center International 500	no
+Classof1				maybe
+Clickworker				maybe,more
+Covance					no
+Dell					maybe
+EduwizardS				no
+Google					no
+Laureate Education			no
+Lionbridge				maybe
+Quicktate or iDictate			maybe
+Responsive Translation			no
+Salesforce.com				no, do more  research into this field
+SMARTHINKING.com			no
+The Smart Crowd				maybe
+Sun Microsystems			maybe (webdev)
+TeleTech@Home				no,more
+Tutorvista.com				no
+UniversalClass				no
+Working Solutions			maybe,more
+WorldLingo				maybe
+
+
+
+
+
+
+

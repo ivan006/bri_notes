@@ -1,0 +1,12 @@
+
+maintanance: R3319.5 (based on 50% of my income which was R6639, R2022(payed)+4617(outstanding still))				
+netflix: -R100
+bike tube: -R100
+tube repair kit: -R50
+jacket: 590
+ten pounds: -R190
+
+total: 3469.5
+
+
+paid: yes

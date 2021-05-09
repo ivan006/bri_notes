@@ -1,0 +1,72 @@
+i must work 2 hours a weekday (or 20 records a weekday @ R3 a record)
+
+D=Debit (R)				
+C=Credit (R)				
+B=Balance (R)				
+				
+Date (y/m/d):	Product:	D:	C:	B:
+				
+2016-09-26	Empty Man Role		2,521	2,521
+2016-09-30	Empty Man Role		3,983	6,504
+2016-09-30	Food----	6504		0
+2016-11-30	Empty Man Role		670	670
+2016-11-30	Unknown-	670		0
+
+unorganised V (came from food accounts)
+2016-08-12	Business		1,000	1,132
+2016-08-12	Checkers	1,000		132
+2016-09-08	Business		1,000	1,132
+2016-09-08	Checkers	1,000		132
+2016-09-26	Busienss		1,000	1,132
+2016-09-26	Checkers	1,000		132
+2016-09-30	Employment		6,504	6,636
+2016-10-01	Checkers	6,636		0
+2016-11-25	Business		1,000	1,000
+2016-12-01	Checkers	282		718
+2016-12-12	food----	1000		-282
+2016-12-21	suplimentation		2174	1892
+2016-12-23	food----	1174		718
+2016-12-28	employment		40	758
+2016-12-28	food----	40		718
+2016-12-30	business		282	1000
+2016-12-30	food----	1000		0
+2016-12-30:	employment 		30	30
+2016-12-28	food----	30		0
+2017-01-11:	employment		60	60
+2017-01-11:	food----	60		0
+2017-01-16:	employment		60	60
+2017-01-16:	food----	60		0
+
+2017-02-09:	Animation	300		300		
+2017-02-09:	Bonus Money	300		600
+2017-02-09:	Food----		600	0
+
+D=Debit (R)
+C=Credit (R)
+B=Balance (R)
+
+Date (y/m/d):	Product:	C:	D:	B:
+
+2017-01-16:	Leads---	190		190
+2017-01-16:	Bonus Money	190		380
+2017-01-16:	Food----		380	0
+
+2017-01-25:	Leads---	420		420
+2017-01-25:	Bonus Money	420		840
+2017-01-25:	Food----		840	0
+
+2017-03-08:	Leads---	616		616
+2017-03-08:	Bonus Money	616		1232
+2017-03-08:	Food----		1232	0
+			
+2017-03-21:	M. Leads---	314		314
+2017-03-21:	Food----		314	0
+
+2017-04-05:	Transport	300		300
+
+
+
+
+
+
+

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      var state = {
+        "multivalue": {
+
+        }
+      }
+
+
+      function MultiValueTemplateRead(id,name){
+        var template = Function('"use strict"; return state.multivalue.' + id + '.template;')();
+        // template = decodeURIComponent(template);
+
+        var value = Function('"use strict"; return state.multivalue.' + id + '.content;')();
+        // var value = value.reverse();
+        // alert(JSON.stringify(state.multivalue,null,2))
+
+        Object.keys(value).forEach(function(key) {
+           var subfield = value[key];
+           // alert(JSON.stringify(subfield,null,2))
+
+
+
+           var data = {
+             "id":id,
+             "name":name,
+             "key": parseFloat(key)+1,
+             "DataId":"data-id=\""+key+"\"",
+           };
+
+           Function("data","'use strict'; $('#'+data.id+'-parent').append('"+template+"');")(data);
+
+
+           // $('#'+id+'-parent').append(template);
+        });
+      }
+
+      function MultiValueTemplateCreate(id,name,template){
+        var key = 1;
+        // Function('"use strict"; state.multivalue.' + id + '.content.push({"action": "add"});')();
+        var key = $('#'+id+'-parent > div').length;
+        var key = key+1;
+        // alert(key);
+
+
+        var subfield={};
+
+        var data = {
+          "id":id,
+          "name":name,
+          "key":key,
+          "DataId":"",
+        };
+
+        Function("data","'use strict'; $('#'+data.id+'-parent').append('"+template+"');")(data);
+
+
+
+        // Function('"use strict"; state.multivalue.' + id + '.content.new' + key + ' = {"sequence": ""};')();
+        // $('#'+id+'-parent').text('');
+        // MultiValueTemplateRead(id,name)
+      }
+
+      function MultiValueTemplateDelete(key,id,name){
+        // ('3','DirectChannels','Direct Channels')
+        // var key = parseFloat(sequence)-1
+        // Function('"use strict"; delete state.multivalue.' + id + '.content["'+key+'"];')();
+
+        // alert('#'+id+'-'+key);
+        var element = $('#'+id+'-'+key);
+
+        var attr = element.attr('data-id');
+
+        if (typeof attr !== typeof undefined && attr !== false) {
+          // element.html("<div>Channel "+key+" (deleted)</div>");
+          $('#'+id+'-'+key+' .main').css("display","none");
+          // alert("?")
+          $('#'+id+'-'+key).append('<div class="">'+
+            'Channel '+key+' (deleted) '+
+            '<button type="button" name="button" onclick="MultiValueTemplateUndoDelete(\''+key+'\',\''+id+'\',\''+name+'\')">Undo delete</button>'+
+          '</div>');
+
+        } else {
+          element.remove();
+        }
+
+        // Function('"use strict"; state.multivalue.' + id + '.content.'+key+'.action = "action";')();
+
+        // $('#'+id+'-parent').text('');
+        // MultiValueTemplateRead(id,name)
+
+        // alert(JSON.stringify(state.multivalue,null,2));
+
+      }
+
+    </script>
+
+
+
+    <div class="col-md-6" style="">
+
+                <script type="text/javascript">
+        $( document ).ready(function() {
+          var contentunformated = [{"id":"1"},{"id":"1"},{"id":"1"}];
+          var content = contentunformated;
+          // var content = {};
+          // Object.keys(contentunformated).forEach(function(key) {
+          //   content[contentunformated[key].sequence] = contentunformated[key];
+          //   // content[key] = contentunformated[key];
+          // });
+          state.multivalue.ReservationsChannels= {
+            template: "    <div class=\"\" id=\"\'+data.id+\'-\'+data.key+\'\" \'+data.DataId+\'>      <div class=\"main\">        <div class=\"\">          Channel \'+data.key+\'          <button type=\"button\" name=\"button\" onclick=\"MultiValueTemplateDelete(\\\'\'+data.key+\'\\\',\\\'\'+data.id+\'\\\',\\\'\'+data.name+\'\\\')\">-</button>        </div>        <br>        <div class=\"input-group\" style=\"margin-bottom: 10px;\">          <span class=\"input-group-addon\">Mobile Number</span>          <input id=\"Mobile Number\" type=\"text\" class=\"form-control\" name=\"Mobile Number\" placeholder=\"Mobile Number\">        </div>        <div class=\"input-group\" style=\"margin-bottom: 10px;\">          <span class=\"input-group-addon\">Landline Number </span>          <input id=\"Landline Number\" type=\"text\" class=\"form-control\" name=\"Landline Number\" placeholder=\"Landline Number\">        </div>        <div class=\"input-group\" style=\"margin-bottom: 10px;\">          <span class=\"input-group-addon\">Fax Number</span>          <input id=\"Fax Number\" type=\"text\" class=\"form-control\" name=\"Fax Number\" placeholder=\"Fax Number\">        </div>        <div class=\"input-group\" style=\"margin-bottom: 10px;\">          <span class=\"input-group-addon\">Email Address</span>          <input id=\"Email Address\" type=\"text\" class=\"form-control\" name=\"Email Address\" placeholder=\"Email Address\">        </div>        <hr>      </div>    </div>    ",
+            content: content,
+            name: "Reservations Channels",
+          };
+          MultiValueTemplateRead("ReservationsChannels",state.multivalue.ReservationsChannels.name);
+        });
+
+        </script>
+        <div class="" id="ReservationsChannels-parent"></div>
+
+        <button type="button" name="button" onclick="MultiValueTemplateCreate('ReservationsChannels','Reservations Channels',state.multivalue.ReservationsChannels.template,)">+</button>
+
+        <span id="ReservationsChannels-count"></span>
+        <br>
+
+
+    </div>
+
+
+
+
+
+
+  </body>
+</html>
