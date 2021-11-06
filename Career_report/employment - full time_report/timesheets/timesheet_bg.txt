@@ -1,110 +1,110 @@
 
-2020/07/23 -- Career mng. --  -- applying for jobs -- BBoss - interview -- 01:20:00
-2020/07/27 -- Marketing --  -- Fixing site -- 01:30:00
-2020/08/06 -- Marketing -- publicity stunts  -- printed t-shirts -- initial discussion with Judy -- 00:50:00
-2020/08/08 -- Marketing -- publicity stunts -- printed t-shirts -- line art and meme ranges -- 01:00:00
-2020/08/10 -- Operations -- Dads site --  -- initial consultation -- 00:20:00
-2020/08/10 -- Operations -- Dads site --  -- best home planet -- 03:08:00
-2020/08/11 -- Operations -- Dads site --  -- best home planet -- 04:24:00
-2020/08/12 -- Operations -- Dads site --  -- best home planet -- 02:31:00
-2020/08/13 -- Operations -- Dads site --  -- best home planet -- 04:07:00
-2020/08/14 -- Operations -- Dads site --  -- best home planet -- 02:00:00
-2020/08/15 -- Operations -- Dads site --  -- best home planet -- 00:10:00
-2020/08/08 -- Marketing -- publicity stunts --  -- leads -- 00:10:00
-2020/08/16 -- Operations -- Dads site --  -- best home planet -- 00:26:00
-2020/08/17 -- Marketing -- publicity stunts --  -- merchadise shop -- 02:20:00
-2020/08/17 -- Operations -- Dads site --  -- drone eye -- 00:41:00
-2020/08/17 -- Marketing -- publicity stunts --  -- merchadise art -- 02:00:00
-2020/08/18 -- Career mng. --  -- applying for jobs -- BBoss - interview -- 00:20:00
-2020/08/18 -- Operations -- Dads site --  -- best home planet -- 00:24:00
-2020/08/18 -- Marketing -- publicity stunts --  -- merchadise art -- 03:40:00
-2020/08/19 -- Operations -- Dads site --  -- drone eye -- 00:37:00
-2020/08/19 -- Marketing -- publicity stunts --  -- merchadise art -- 02:15:00
-2020/08/20 -- Operations -- Dads site --  -- drone eye -- 00:24:00
-2020/08/20 -- Operations -- Dads site --  -- besthome planet -- 03:03:00
-2020/08/21 -- Operations -- Dads site --  -- besthome planet -- 01:50:00
-2020/08/22 -- Operations -- Dads site --  -- besthome planet -- 01:04:00
-2020/08/23 -- Marketing -- publicity stunts --  -- merchadise art -- 01:15:00
-2020/08/24 -- Marketing -- publicity stunts --  -- merchadise art -- 01:26:00
-2020/08/24 -- Operations -- Dads site --  -- drone eye -- 00:17:00
-2020/08/25 -- Operations -- Dads site --  -- besthomeplanet -- 00:07:00
-2020/08/25 -- Marketing -- publicity stunts --  -- merchadise art -- 04:30:00
-2020/08/26 -- Operations -- Dads site --  -- drone eye -- 01:30:00
-2020/08/27 -- Operations -- Dads site --  -- drone eye -- 02:40:00
-2020/08/28 -- Operations -- Dads site --  -- drone eye -- 02:00:00
-2020/08/29 -- Operations -- Momma owl --  -- Momma owl site -- 02:35:00
-2020/08/30 -- Operations -- Momma owl --  -- Momma owl site -- 02:20:00
-2020/08/31 -- Operations -- Dads site --  -- drone eye -- 02:00:00
-2020/08/31 -- Operations -- Momma owl --  -- Momma owl site -- 00:45:00
-2020/09/01 -- Operations -- Dads site --  -- drone eye -- 00:20:00
-2020/08/31 -- Operations -- Momma owl --  -- Momma owl site -- 04:17:00
-2020/09/02 -- Operations -- Dads site --  -- drone eye -- 00:27:00
-2020/09/03 -- Operations -- Dads site --  -- drone eye -- 00:30:00
-2020/09/07 -- Operations -- Momma owl --  -- Momma owl site -- 02:00:00
-2020/09/09 -- Operations -- Momma owl --  -- Momma owl site -- 01:50:00
-2020/09/10 -- Operations -- Momma owl --  -- Momma owl site -- 00:13:00
-2020/09/10 -- Operations -- Chinkwende --  -- Pigs -- 00:20:00
-2020/09/13 -- Operations -- Dads site --  -- drone eye -- 00:20:00
-2020/09/13 -- Education --  -- practice project -- Folder-page engine -- 01:00:00
-2020/09/15 -- Education --  -- practice_project -- Folder-page engine -- 01:00:00
-2020/09/22 -- Education -- practice_project -- Table page --  -- 05:55:00
-2020/09/23 -- Education -- practice_project -- Table page --  -- 01:10:00
-2020/09/24 -- Education -- practice_project -- Table page --  -- 05:40:00
-2020/09/25 -- Education -- practice_project -- Table page --  -- 05:20:00
-2020/09/26 -- Education -- practice_project -- Table page --  -- 02:30:00
-2020/09/27 -- Education -- practice_project -- Table page --  -- 02:20:00
-2020/09/28 -- Education -- practice_project -- Table page --  -- 00:30:00
-2020/09/29 -- Education -- practice_project -- Table page --  -- 02:00:00
-2020/09/30 -- Education -- practice_project -- Table page --  -- 04:34:00
-2020/10/01 -- Education -- practice_project -- Table page --  -- 06:17:00
-2020/10/02 -- Education -- practice_project -- Table page --  -- 00:15:00
-2020/10/13 -- Education -- practice_project -- Table page --  -- 01:34:00
-2020/10/15 -- Education -- practice_project -- Table page --  -- 02:00:00
-2020/10/16 -- Education -- practice_project -- Table page --  -- 05:57:00
-2020/11/06 -- Education -- practice_project -- Table page --  -- 01:30:00
-2020/11/07 -- Education -- practice_project -- Table page --  -- 02:10:00
-2020/11/07 -- Education -- practice_project -- Table page --  -- 02:12:00
-2020/11/14 -- Education -- practice_project -- Table page --  -- 03:53:00
-2020/11/15 -- Education -- practice_project -- Table page --  -- 01:26:00
-2020/11/20 -- Education -- practice_project -- Table page --  -- 01:28:00
-2020/11/21 -- Education -- practice_project -- Table page --  -- 07:00:00
-2020/11/22 -- Education -- practice_project -- Table page --  -- 01:58:00
-2020/12/12 -- Education -- practice_project -- Table page --  -- 01:21:00
-2020/12/13 -- Education -- practice_project -- Table page --  -- 00:50:00
-2020/12/16 -- Education -- practice_project -- Table page --  -- 03:20:00
-2020/12/18 -- Education -- practice_project -- Table page --  -- 06:10:00
-2020/12/24 -- Education -- practice_project -- Table page --  -- 01:07:00
-2020/12/25 -- Education -- practice_project -- Table page --  -- 04:36:00
-2020/12/26 -- Education -- practice_project -- Table page --  -- 01:00:00
-2020/12/30 -- Education -- practice_project -- Table page --  -- 01:20:00
-2020/12/31 -- Education -- practice_project -- Table page --  -- 04:42:00
-2021/01/01 -- Education -- practice_project -- Table page -- deploy to besthomeplanet -- 00:30:00
-2021/01/02 -- Education -- practice_project -- Table page --  -- 01:57:00
-2021/01/03 -- Education -- practice_project -- Table page --  -- 04:00:00
-2021/01/09 -- Education -- practice_project -- Table page -- person/resources cat/resource ontology -- 00:40:00
-2021/01/09 -- Education -- practice_project -- Table page --  -- 02:30:00
-2021/01/10 -- Education -- practice_project -- Table page --  -- 01:45:00
-2021/01/16 -- Education -- practice_project -- Table page --  -- 01:22:00
-2021/02/23 -- Education -- practice_project -- Table page --  -- 02:30:00
-2021/02/28 -- Education -- practice_project -- Table page --  -- 02:30:00
-2021/03/03 -- Education -- practice_project -- Table page --  -- 00:44:00
-2021/03/06 -- Education -- practice_project -- Table page --  -- 02:00:00
-2021/03/17 -- Education -- practice_project -- Sync Gate - Pardot --  -- 02:15:00
-2020/03/22 -- Education --  -- practice project -- EasyNet Demo -- 01:30:00
-2021/04/11 -- Education -- practice_project -- Table page --  -- 03:40:00
-2021/04/14 -- Education -- practice_project -- Table page --  -- 01:40:00
-2021/04/15 -- Education -- practice_project -- Table page --  -- 01:15:00
-2021/04/16 -- Education -- practice_project -- Table page --  -- 04:00:00
-2021/04/18 -- Education -- practice_project -- Table page --  -- 02:40:00
-2021/04/19 -- Education -- practice_project -- Table page --  -- 01:16:00
-2021/04/22 -- Education -- practice_project -- Table page --  -- 00:30:00
-2021/04/25 -- Education -- practice_project -- Table page --  -- 01:30:00
-2021/04/26 -- Education -- practice_project -- Table page --  -- 03:30:00
-2021/04/27 -- Education -- practice_project -- Table page --  -- 03:40:00
-2021/04/29 -- Education -- practice_project -- Table page --  -- 00:40:00
-2021/05/01 -- Education -- practice_project -- Table page --  -- 03:30:00
-2021/05/02 -- Education -- practice_project -- Table page --  -- 00:50:00
-2021/05/07 -- Education -- practice_project -- Table page --  -- 02:00:00
-2021/05/08 -- Education -- practice_project -- Table page --  -- 03:00:00
-2021/05/09 -- Education -- practice_project -- Table page --  -- 02:56:00
 2021/05/15 -- Education -- practice_project -- Table page --  -- 04:50:00
+2021/05/09 -- Education -- practice_project -- Table page --  -- 02:56:00
+2021/05/08 -- Education -- practice_project -- Table page --  -- 03:00:00
+2021/05/07 -- Education -- practice_project -- Table page --  -- 02:00:00
+2021/05/02 -- Education -- practice_project -- Table page --  -- 00:50:00
+2021/05/01 -- Education -- practice_project -- Table page --  -- 03:30:00
+2021/04/29 -- Education -- practice_project -- Table page --  -- 00:40:00
+2021/04/27 -- Education -- practice_project -- Table page --  -- 03:40:00
+2021/04/26 -- Education -- practice_project -- Table page --  -- 03:30:00
+2021/04/25 -- Education -- practice_project -- Table page --  -- 01:30:00
+2021/04/22 -- Education -- practice_project -- Table page --  -- 00:30:00
+2021/04/19 -- Education -- practice_project -- Table page --  -- 01:16:00
+2021/04/18 -- Education -- practice_project -- Table page --  -- 02:40:00
+2021/04/16 -- Education -- practice_project -- Table page --  -- 04:00:00
+2021/04/15 -- Education -- practice_project -- Table page --  -- 01:15:00
+2021/04/14 -- Education -- practice_project -- Table page --  -- 01:40:00
+2021/04/11 -- Education -- practice_project -- Table page --  -- 03:40:00
+2020/03/22 -- Education --  -- practice project -- EasyNet Demo -- 01:30:00
+2021/03/17 -- Education -- practice_project -- Sync Gate - Pardot --  -- 02:15:00
+2021/03/06 -- Education -- practice_project -- Table page --  -- 02:00:00
+2021/03/03 -- Education -- practice_project -- Table page --  -- 00:44:00
+2021/02/28 -- Education -- practice_project -- Table page --  -- 02:30:00
+2021/02/23 -- Education -- practice_project -- Table page --  -- 02:30:00
+2021/01/16 -- Education -- practice_project -- Table page --  -- 01:22:00
+2021/01/10 -- Education -- practice_project -- Table page --  -- 01:45:00
+2021/01/09 -- Education -- practice_project -- Table page --  -- 02:30:00
+2021/01/09 -- Education -- practice_project -- Table page -- person/resources cat/resource ontology -- 00:40:00
+2021/01/03 -- Education -- practice_project -- Table page --  -- 04:00:00
+2021/01/02 -- Education -- practice_project -- Table page --  -- 01:57:00
+2021/01/01 -- Education -- practice_project -- Table page -- deploy to besthomeplanet -- 00:30:00
+2020/12/31 -- Education -- practice_project -- Table page --  -- 04:42:00
+2020/12/30 -- Education -- practice_project -- Table page --  -- 01:20:00
+2020/12/26 -- Education -- practice_project -- Table page --  -- 01:00:00
+2020/12/25 -- Education -- practice_project -- Table page --  -- 04:36:00
+2020/12/24 -- Education -- practice_project -- Table page --  -- 01:07:00
+2020/12/18 -- Education -- practice_project -- Table page --  -- 06:10:00
+2020/12/16 -- Education -- practice_project -- Table page --  -- 03:20:00
+2020/12/13 -- Education -- practice_project -- Table page --  -- 00:50:00
+2020/12/12 -- Education -- practice_project -- Table page --  -- 01:21:00
+2020/11/22 -- Education -- practice_project -- Table page --  -- 01:58:00
+2020/11/21 -- Education -- practice_project -- Table page --  -- 07:00:00
+2020/11/20 -- Education -- practice_project -- Table page --  -- 01:28:00
+2020/11/15 -- Education -- practice_project -- Table page --  -- 01:26:00
+2020/11/14 -- Education -- practice_project -- Table page --  -- 03:53:00
+2020/11/07 -- Education -- practice_project -- Table page --  -- 02:12:00
+2020/11/07 -- Education -- practice_project -- Table page --  -- 02:10:00
+2020/11/06 -- Education -- practice_project -- Table page --  -- 01:30:00
+2020/10/16 -- Education -- practice_project -- Table page --  -- 05:57:00
+2020/10/15 -- Education -- practice_project -- Table page --  -- 02:00:00
+2020/10/13 -- Education -- practice_project -- Table page --  -- 01:34:00
+2020/10/02 -- Education -- practice_project -- Table page --  -- 00:15:00
+2020/10/01 -- Education -- practice_project -- Table page --  -- 06:17:00
+2020/09/30 -- Education -- practice_project -- Table page --  -- 04:34:00
+2020/09/29 -- Education -- practice_project -- Table page --  -- 02:00:00
+2020/09/28 -- Education -- practice_project -- Table page --  -- 00:30:00
+2020/09/27 -- Education -- practice_project -- Table page --  -- 02:20:00
+2020/09/26 -- Education -- practice_project -- Table page --  -- 02:30:00
+2020/09/25 -- Education -- practice_project -- Table page --  -- 05:20:00
+2020/09/24 -- Education -- practice_project -- Table page --  -- 05:40:00
+2020/09/23 -- Education -- practice_project -- Table page --  -- 01:10:00
+2020/09/22 -- Education -- practice_project -- Table page --  -- 05:55:00
+2020/09/15 -- Education --  -- practice_project -- Folder-page engine -- 01:00:00
+2020/09/13 -- Education --  -- practice project -- Folder-page engine -- 01:00:00
+2020/09/13 -- Operations -- Dads site --  -- drone eye -- 00:20:00
+2020/09/10 -- Operations -- Chinkwende --  -- Pigs -- 00:20:00
+2020/09/10 -- Operations -- Momma owl --  -- Momma owl site -- 00:13:00
+2020/09/09 -- Operations -- Momma owl --  -- Momma owl site -- 01:50:00
+2020/09/07 -- Operations -- Momma owl --  -- Momma owl site -- 02:00:00
+2020/09/03 -- Operations -- Dads site --  -- drone eye -- 00:30:00
+2020/09/02 -- Operations -- Dads site --  -- drone eye -- 00:27:00
+2020/08/31 -- Operations -- Momma owl --  -- Momma owl site -- 04:17:00
+2020/09/01 -- Operations -- Dads site --  -- drone eye -- 00:20:00
+2020/08/31 -- Operations -- Momma owl --  -- Momma owl site -- 00:45:00
+2020/08/31 -- Operations -- Dads site --  -- drone eye -- 02:00:00
+2020/08/30 -- Operations -- Momma owl --  -- Momma owl site -- 02:20:00
+2020/08/29 -- Operations -- Momma owl --  -- Momma owl site -- 02:35:00
+2020/08/28 -- Operations -- Dads site --  -- drone eye -- 02:00:00
+2020/08/27 -- Operations -- Dads site --  -- drone eye -- 02:40:00
+2020/08/26 -- Operations -- Dads site --  -- drone eye -- 01:30:00
+2020/08/25 -- Marketing -- publicity stunts --  -- merchadise art -- 04:30:00
+2020/08/25 -- Operations -- Dads site --  -- besthomeplanet -- 00:07:00
+2020/08/24 -- Operations -- Dads site --  -- drone eye -- 00:17:00
+2020/08/24 -- Marketing -- publicity stunts --  -- merchadise art -- 01:26:00
+2020/08/23 -- Marketing -- publicity stunts --  -- merchadise art -- 01:15:00
+2020/08/22 -- Operations -- Dads site --  -- besthome planet -- 01:04:00
+2020/08/21 -- Operations -- Dads site --  -- besthome planet -- 01:50:00
+2020/08/20 -- Operations -- Dads site --  -- besthome planet -- 03:03:00
+2020/08/20 -- Operations -- Dads site --  -- drone eye -- 00:24:00
+2020/08/19 -- Marketing -- publicity stunts --  -- merchadise art -- 02:15:00
+2020/08/19 -- Operations -- Dads site --  -- drone eye -- 00:37:00
+2020/08/18 -- Marketing -- publicity stunts --  -- merchadise art -- 03:40:00
+2020/08/18 -- Operations -- Dads site --  -- best home planet -- 00:24:00
+2020/08/18 -- Career mng. --  -- applying for jobs -- BBoss - interview -- 00:20:00
+2020/08/17 -- Marketing -- publicity stunts --  -- merchadise art -- 02:00:00
+2020/08/17 -- Operations -- Dads site --  -- drone eye -- 00:41:00
+2020/08/17 -- Marketing -- publicity stunts --  -- merchadise shop -- 02:20:00
+2020/08/16 -- Operations -- Dads site --  -- best home planet -- 00:26:00
+2020/08/08 -- Marketing -- publicity stunts --  -- leads -- 00:10:00
+2020/08/15 -- Operations -- Dads site --  -- best home planet -- 00:10:00
+2020/08/14 -- Operations -- Dads site --  -- best home planet -- 02:00:00
+2020/08/13 -- Operations -- Dads site --  -- best home planet -- 04:07:00
+2020/08/12 -- Operations -- Dads site --  -- best home planet -- 02:31:00
+2020/08/11 -- Operations -- Dads site --  -- best home planet -- 04:24:00
+2020/08/10 -- Operations -- Dads site --  -- best home planet -- 03:08:00
+2020/08/10 -- Operations -- Dads site --  -- initial consultation -- 00:20:00
+2020/08/08 -- Marketing -- publicity stunts -- printed t-shirts -- line art and meme ranges -- 01:00:00
+2020/08/06 -- Marketing -- publicity stunts  -- printed t-shirts -- initial discussion with Judy -- 00:50:00
+2020/07/27 -- Marketing --  -- Fixing site -- 01:30:00
+2020/07/23 -- Career mng. --  -- applying for jobs -- BBoss - interview -- 01:20:00
