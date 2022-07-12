@@ -154,4 +154,5 @@
 2021/02/06 -- Career mng. --  -- applying for jobs --  -- 01:16:00
 2021/02/07 -- Career mng. --  -- applying for jobs --  -- 05:12:00
 2021/03/06 -- Career mng. --  -- applying for jobs --  -- 01:00:00
-2022/07/12 -- Education --  -- practice project -- EasyBase -- 05:20:00
+2022/07/11 -- Education --  -- practice project -- EasyBase -- 05:20:00
+2022/07/12 -- Education --  -- practice project -- EasyBase -- 01:00:00
